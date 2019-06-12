@@ -10,7 +10,7 @@ public class Aula_04{
         int y=200;
         
         int soma =x+y;
-        
+        System.out.print("A soma é: ");
         System.out.println(x + y);
         
         
